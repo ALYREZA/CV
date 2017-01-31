@@ -3,6 +3,10 @@ h1, h2, ul, li {
 	padding: 0;
 }
 
+.double_line {
+	border-top: 3px double #8c8b8b;
+}
+
 ul,li {
 	font-family: Arial;
 }
@@ -104,4 +108,16 @@ span {
 	margin: 0 auto;
 	padding: 0 auto;
 	width: 20%;
+}
+
+.text-center {
+	text-align: center;
+}
+
+.pull-right {
+	text-align: right;
+}
+
+.pull-left {
+	text-align: left;
 }
