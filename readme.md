@@ -8,7 +8,9 @@ This website is written with jekyll and published at gh-pages. The page size is 
 
 2. Edit `_config.yml` to make sure it can run at your gh-pages.
 
-3. edit `_data/*.yml` to edit your CV.
+3. Edit `_data/*.yml` to edit your CV.
+
+4. Type `jekyll server --watch` in command line and view <http://127.0.0.1:4000> can preview CV pages.
 
 ## Enjoy using it
 
