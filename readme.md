@@ -18,7 +18,7 @@ You can open this CV page, and print/save PDF by click `cmd + p`.
 
 ## Example
 
-![example](example.png)
+![example](img/example.png)
 
 ## Credit
 
