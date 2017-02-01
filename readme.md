@@ -12,8 +12,12 @@ This website is written with jekyll and published at gh-pages. The page size is 
 
 ## Enjoy using it
 
-You can open this CV page, and print it by click `cmd + p`.
+You can open this CV page, and print/save PDF by click `cmd + p`.
 
 ## Example
 
 ![example](example.png)
+
+## Credit
+
+[paper-css](https://github.com/cognitom/paper-css)
